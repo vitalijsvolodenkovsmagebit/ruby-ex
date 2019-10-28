@@ -272,6 +272,12 @@ pre {
 
 $ git commit -a -m 'Some commit message'
 $ git push</pre>
+$ git push</pre>
+$ git push</pre>
+$ git push</pre>
+$ git push</pre>
+$ git push</pre>
+$ git push</pre>
 
 <p>After pushing changes, you'll need to manually trigger a build if you did not setup a webhook as described above.</p>
       </section>
